@@ -197,3 +197,5 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener{
         player1X -=20;
     }
 }
+
+// based on awaismirza Java BrickBreaker game tutorial.
