@@ -38,3 +38,5 @@ public class MapGenerator {
         map[row][col] = value;
     }
 }
+
+// based on awaismirza Java BrickBreaker game tutorial.
